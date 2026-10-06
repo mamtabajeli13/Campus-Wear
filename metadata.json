@@ -1,0 +1,8 @@
+{
+  "name": "CampusWear",
+  "description": "Premium, custom-designed merchandise for college clubs and fests. Get your free digital mockup via WhatsApp today.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
